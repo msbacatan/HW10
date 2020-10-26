@@ -23,5 +23,6 @@ footer {
 }
 
 table {
-    border: solid slategrey 1 px;
+    border: solid slategrey 1px;
+    padding: 10px;
 }
